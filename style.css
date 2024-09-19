@@ -1,0 +1,25 @@
+:root{
+    --fundo: grey;
+    --cartao-frente: purple;
+    --cartao-verso: pink;
+    --branco: white;
+    --preto: black;
+    --destaque: #44093c;
+
+}
+
+
+body{
+    background-color: var(--fundo);
+}
+
+
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color: var(--preto);
+    color: var(--branco);
+    width: 100%;
+    text-align: center;
+
+}
