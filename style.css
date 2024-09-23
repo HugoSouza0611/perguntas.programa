@@ -29,5 +29,5 @@ footer{
 }
 
 .conteudo-cartao{
-background-color: var(purple);
+background-color: var(--cartao-frente);
 }
