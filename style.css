@@ -47,9 +47,11 @@ background-color: var(--cartao-frente);
     border: 1px solid var(--destaque);
     position: absolute;
     padding: 0.5rem;
+    margin: 0.6rem;
 }
 
 
 .conteudo-cartao p{
     margin-top: 1rem;
+    padding: 4rem;
 }
