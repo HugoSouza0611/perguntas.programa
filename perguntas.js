@@ -16,7 +16,7 @@ criaCartao(
 criaCartao(
     'Matemática',
     'Qual os ângulos notáveis da tangente?',
-    '30° = √3 / 3        45° = 1       60° = √3')
+    '30° = √3 / 3    |    45° = 1    |   60° = √3')
 
 criaCartao(
     'Física',
@@ -67,13 +67,13 @@ criaCartao(
 criaCartao(
     'Matemática',
     'Qual ângulo notável do cos?',
-    '30°= √3 / 2    45° = √2 / 2    60° = 1 / 2.')
+    '30°= √3 / 2  |  45° = √2 / 2  |  60° = 1 / 2.')
 
 
 criaCartao(
     'Matemática',
     'Qual ângulo notável do sem?',
-    '30°= 1 / 2     45° = √2 / 2    60° = √3 / 2.')
+    '30°= 1 / 2   |  45° = √2 / 2  |  60° = √3 / 2.')
 
 
 criaCartao(
