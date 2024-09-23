@@ -115,4 +115,4 @@ criaCartao(
 criaCartao(
     'Matemática',
     'Qual os ângulos notáveis da tangente?',
-    '30° = √3 / 3    |    45° = 1    |   60° = √3')
+    '30° = √3 / 3    |    45° = 1    |   60° = √3.')
