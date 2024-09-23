@@ -12,7 +12,6 @@
 body{
     background-color: var(--fundo);
     margin: 0%;
-    font-size: 18px;
 }
 
 
@@ -40,4 +39,5 @@ background-color: var(--cartao-frente);
 .cartao{
     margin: 1rem;
     flex-grow: 1;
+    flex-basis: calc(33% - 6rem);
 }
