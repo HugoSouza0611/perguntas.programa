@@ -67,6 +67,7 @@ background-color: var(--cartao-frente);
 
 .pergunta-cartao,
 .resposta-cartao{
+    backface-visivility: hidden;
     position: absolute;
     height: 100%;
     width: 100%;
