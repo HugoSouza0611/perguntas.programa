@@ -35,14 +35,11 @@ footer{
 
 .conteudo-cartao{
 background-color: var(--cartao-frente);
-border: 1px solid var(--destaque);
-text-align:left;
-padding: 0.5rem;
-position: absolute;
-margin: 0.6rem;
-border-radius: 0.5rem;
-backface-visibility: hidden;
-
+color: var(--branco);
+text-align: center;
+height: 100%;
+transform-style: preserve-3d;
+transition: transform 300ms ease-in-out;
 }
 
 .cartao{
@@ -62,7 +59,9 @@ backface-visibility: hidden;
 
 .conteudo-cartao p{
     margin-top: 1rem;
-    padding: 4rem;
+    padding: 2rem;
+    margin-top: 4rem;
+    font-size: 1.4vw;
 }
 .resposta-cartao p{
     color: var(--cartao-verso);
