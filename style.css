@@ -62,7 +62,7 @@ background-color: var(--cartao-frente);
 }
 
 .cartao.active .conteudo-cartao{
-    transform: rotateY('180deg');
+    transform: rotateY(180deg);
 }
 
 .pergunta-cartao,
