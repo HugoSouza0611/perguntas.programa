@@ -35,6 +35,14 @@ footer{
 
 .conteudo-cartao{
 background-color: var(--cartao-frente);
+border: 1px solid var(--destaque);
+text-align:left;
+padding: 0.5rem;
+position: absolute;
+margin: 0.6rem;
+border-radius: 0.5rem;
+backface-visibility: hidden;
+
 }
 
 .cartao{
