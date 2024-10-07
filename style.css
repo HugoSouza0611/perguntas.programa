@@ -46,6 +46,7 @@ transition: transform 300ms ease-in-out;
     margin: 1rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
+    height: 20rem;
 }
 
 .conteudo-cartao h3{
@@ -57,7 +58,7 @@ transition: transform 300ms ease-in-out;
     border-radius: 0.5rem;
 }
 
-.conteudo-cartao p{
+.pergunta-cartao p{
     margin-top: 1rem;
     padding: 2rem;
     margin-top: 4rem;
